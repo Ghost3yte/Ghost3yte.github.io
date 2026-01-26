@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHALLENGE_NAME – PLATFORM
-date: YYYY-MM-DD
+date: 2026-01-26
 description:
 categories: [linux, reverseing]
 tags: [pwn, binary-exploitation, linux]
