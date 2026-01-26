@@ -3,13 +3,8 @@ layout: post
 title: CHALLENGE_NAME – PLATFORM
 date: YYYY-MM-DD
 description:
-categories:
-  - linux
-  - reverseing
-tags:
-  - pwn
-  - binary-exploitation
-  - linux
+categories: [linux, reverseing]
+tags: [pwn, binary-exploitation, linux]
 toc: true
 math: true
 mermaid: false
