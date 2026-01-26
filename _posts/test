@@ -1,0 +1,36 @@
+---
+layout: post
+title: CHALLENGE_NAME – PLATFORM
+date: YYYY-MM-DD
+description:
+categories:
+  - linux
+  - reverseing
+tags:
+  - pwn
+  - binary-exploitation
+  - linux
+toc: true
+math: true
+mermaid: false
+image:
+  path: /assets/img/posts/your-image.png
+  alt: description of the image
+---
+# CHALLENGE_NAME – PLATFORM
+
+- **Difficulty (platform):** Easy / Medium / Hard / Insane
+- **Difficulty (my view):** MY_DIFFICULTY_RATING
+- **Environment:**  
+  - Target: TARGET_OS_ARCH_OR_TYPE  
+  - Attacker: ATTACKER_ENVIRONMENT
+  
+> **TL;DR**  
+> SHORT_SUMMARY_OF_CHALLENGE_AND_OUTCOME
+
+---
+## Why this challenge matters
+
+- **Real-world skill:** SKILL_DESCRIPTION
+- **Scenario:** REALISTIC_ANALOGUE
+- **Takeaway in one line:** ONE_SENTENCE_TAKEAWAY
