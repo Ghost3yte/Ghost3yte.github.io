@@ -9,7 +9,7 @@ toc: true
 math: true
 mermaid: false
 image:
-  path: /assets/img/posts/your-image.png
+  path: /assets/img/favicons/favicon.ico
   alt: description of the image
 ---
 # CHALLENGE_NAME – PLATFORM
