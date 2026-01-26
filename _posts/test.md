@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHALLENGE_NAME – PLATFORM"
+title: CHALLENGE_NAME – PLATFORM
 date: YYYY-MM-DD
 description:
 categories: [linux, reverseing]
