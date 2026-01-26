@@ -3,7 +3,16 @@
     <div class="footer-left">
       <p class="mb-0">
         © {{ 'now' | date: "%Y" }}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+        
+        <span
+          data-bs-toggle="tooltip"
+          data-bs-placement="top"
+          style="cursor: help; border-bottom: 1px dotted var(--footer-link-color);"
+          title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author."
+        >
+          Some rights reserved.
+        </span>
       </p>
     </div>
   </div>
