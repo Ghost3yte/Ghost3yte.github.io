@@ -28,8 +28,8 @@ url: "https://Ghost3yte.github.io"
 github:
   username: Ghost3yte # change to your GitHub username
 
-# twitter:
-#  username: twitter_username # change to your Twitter username
+twitter:
+  username: ghost3yte # change to your Twitter username
 
 social:
   # Change to your full name.
