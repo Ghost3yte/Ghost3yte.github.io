@@ -2,7 +2,7 @@
 layout: post
 title: "CHALLENGE_NAME - PLATFORM"
 date: 2026-01-26 12:00:00 +0100
-description:
+description: "Test test, test"
 categories: [linux, reverseing]
 tags: [pwn, binary-exploitation, linux]
 toc: true
