@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insomni'hack 2026 - SecretStash"
-date: 2026-03-26 12:00:00 +0100
+date: 2026-03-25 12:00:00 +0100
 description: "Format String Leak, Stack Overflow, and ROP Chain to Read the Flag"
 categories: [ctf]
 tags: [insomnihack, pwn, rop, format-string, stack-overflow, seccomp, binary-exploitation]
