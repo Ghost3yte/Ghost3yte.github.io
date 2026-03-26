@@ -86,6 +86,7 @@ The binary sets up a seccomp filter with `SCMP_ACT_KILL` as the default action, 
 | 231 | exit_group |
 | 257 | openat     |
 | 262 | newfstatat |
+
 Notably `execve` is blocked, so no shell. But `open`, `read`, and `write` are allowed, which is all we need: `open` -> `read` -> `write` the flag.
 
 ---
