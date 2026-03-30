@@ -14,4 +14,4 @@ This blog is where I document my learning process. CTF writeups, exploit notes, 
 - **Exploit education**: breaking down the why behind techniques, not just the steps
 
 ## contact
-Student, not expert! If you spot a mistake or want to discuss a challenge, I'm always open to it.
+Student, not an expert! If you spot a mistake or want to discuss a challenge, I'm always open to it.
